@@ -189,7 +189,7 @@ The complete detailed documentation of this project, including:
 - Security Configuration
 - Challenges Faced
 
-is available in the docs folder:
+is available in the **[docs](docs/smartinventory_final_report.pdf)** folder:
 
 ```
 /docs
